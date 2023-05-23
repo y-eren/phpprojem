@@ -4,6 +4,9 @@ Proje Web tabanlı programlama dersi kapsamında bir bağış sitesi olarak tasa
 # Kullanılan Teknolojiler
 Proje kapsamında PHP, HTML,JAVASCRIPT, BOOTSTRAP teknolojileri kullanılmıştır.
 
+# Site açıklaması için youtube video linki
+https://youtu.be/C-9wMNN7JP4
+
 # XAMPP üzerinden kurmak için
 
 ![Ekran Görüntüsü (180)](https://github.com/y-eren/phpprojem/assets/84980503/0e56bfc8-7dde-4a6e-965a-998cec2f41b5)
